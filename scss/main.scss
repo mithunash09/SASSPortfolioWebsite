@@ -220,12 +220,15 @@ img {
         //Grid Area
         .bio-image {
             grid-area: bioimage;
+          
         }
 
         .bio {
             grid-area: bio;
             border-left: 3px solid $main-color;
             padding: 0.8rem;
+            
+           
         }
 
         .award-1 {
