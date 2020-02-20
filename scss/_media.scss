@@ -11,10 +11,12 @@
   
   // Smartphones
   @media (max-width: 500px) {
+    
     #main-nav {
-      flex-direction: column;
+     
+      flex-direction: column !important;
       align-items: center;
-  
+
       li {
         padding: 1rem;
       }

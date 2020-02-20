@@ -2,6 +2,7 @@
 @import 'utilities';
 @import 'item_grid';
 
+
 // General styles
 * {
     margin: 0;
@@ -43,10 +44,12 @@ img {
 #main-nav {
     display: flex;
     justify-content: space-between;
+   
     padding-top: 1rem;
 
     ul {
         display: flex;
+        
 
     }
 
@@ -391,4 +394,4 @@ img {
 }
 
 // Media queries
-@import 'media'
+@import 'media';
